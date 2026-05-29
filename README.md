@@ -1,5 +1,25 @@
 # 💫 About Me:
-👋 About Me<br>Hi! My name is Luiz Felipe and I’m passionate about technology and software development. I’m currently working as an Intern Software Engineer and constantly seeking new challenges and learning opportunities.<br><br>📚 Education:<br>🎓 Studying Systems Requirements Analysis and Systems Development<br>🌍 Intermediate English proficiency<br><br>💻 Technologies I Work With:<br>🔹 Languages: Python, HTML, CSS, JavaScript<br>🔹 Frameworks & Tools: TypeScript, React, Flutter, Vite, ShadCN, TailwindCSS, Next.js, Node.js<br><br>🚀 My goal is to develop efficient, responsive, and scalable applications by implementing best coding practices and providing an excellent user experience.<br><br>📩 If you’d like to chat about technology or potential collaborations, feel free to reach out!
+👋 About Me<br>
+Hi! My name is Luiz Felipe and I’m a Software Developer working across automation, web, mobile, backend systems, chatbots, and data-driven solutions.<br><br>
+
+💼 I currently work at the Grupo Imagetech, building and maintaining systems involving APIs, integrations, automation workflows, chatbots, dashboards, and multi-platform applications.<br><br>
+
+📚 Education:<br>
+🎓 Systems Analysis and Development<br>
+🌍 Intermediate English proficiency<br><br>
+
+💻 Technologies I Work With:<br>
+🔹 Languages: JavaScript, TypeScript, SQL, Dart, PHP<br>
+🔹 Frontend: React, Next.js, Vite, TailwindCSS, ShadCN UI<br>
+🔹 Mobile: Flutter, React Native<br>
+🔹 Backend & APIs: Node.js, REST APIs, MySQL, PostgreSQL, Docker, n8n<br>
+🔹 Chatbots & Automation: Blip (Take), chatbot flows, integrations, n8n automations<br>
+🔹 Data & Mapping: Leaflet, GeoJSON, dashboards<br>
+🔹 Tools & DevOps: Git, GitHub Actions, CI/CD, Docker Compose<br><br>
+
+🚀 My goal is to build efficient, scalable, and reliable systems that connect automation, chatbots, data, and user experience across multiple platforms.<br><br>
+
+📩 If you’d like to chat about technology or potential collaborations, feel free to reach out!
 
 
 ## 🌐 Socials:
