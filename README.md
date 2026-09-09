@@ -1,8 +1,12 @@
-# Luiz Felipe Mariano Bonfim
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Luiz+Felipe+Mariano+Bonfim;Full-Stack+Developer;Building+real-time+systems+%26+AI+tooling" alt="Typing SVG" />
 
-**Full-Stack Developer** building APIs, automation workflows, chatbots, and multi-platform applications across web, mobile, and backend systems.
+<p align="center">
+  <em>Building APIs, automation workflows, chatbots, and multi-platform applications across web, mobile, and backend systems.</em>
+</p>
 
-Currently at **Grupo Imagetech**, where I design and maintain integrations, automation pipelines, chatbot flows, and data-driven dashboards. My focus is shipping reliable, scalable systems that connect automation, data, and user experience across platforms.
+<p align="center">
+  Currently at <strong>Grupo Imagetech</strong> — designing integrations, automation pipelines, chatbot flows, and data-driven dashboards. Focus on shipping reliable, scalable systems that connect automation, data, and user experience across platforms.
+</p>
 
 ---
 
@@ -21,41 +25,46 @@ Currently at **Grupo Imagetech**, where I design and maintain integrations, auto
 
 ## Tech Stack
 
-**Languages**  
-JavaScript · TypeScript · PHP · Python · Dart · SQL
-
-**Frontend**  
-React · Next.js · Vite · TailwindCSS · ShadCN UI
-
-**Mobile**  
-Flutter · React Native · Expo
-
-**Backend & APIs**  
-Node.js · Express · NestJS · REST APIs · WebSocket · SQLite · MySQL · PostgreSQL · Docker · n8n
-
-**Architecture & Tooling**  
-Monorepos · pnpm workspaces · Adapter pattern · shared packages
-
-**Automation & Chatbots**  
-GitHub Actions · n8n · Blip (Take) · webhooks · cron scheduling
-
-**Data & Mapping**  
-Leaflet · GeoJSON · dashboards
-
-**Tools & DevOps**  
-Git · GitHub Actions · GitLab CI · Docker Compose · Postman · Jira
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,dart,sqlite,mysql,postgres" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,flutter,reactnative,expo" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,docker,git,githubactions,gitlab,jira,postman,figma" />
+</p>
 
 ---
 
 ## Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lmarianobonfim@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/lzfmb) [![Discord](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white)](https://discord.com/invite/VFmDdNHt) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24374350)
+<p align="center">
+  <a href="mailto:lmarianobonfim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/lzfmb"><img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white" /></a>
+  <a href="https://discord.com/invite/VFmDdNHt"><img src="https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/24374350"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
+</p>
 
 ---
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Luizfelipereal007&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfelipereal007&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luizfelipereal007&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfelipereal007&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight" />
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Luizfelipereal007&hide_border=true)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Luizfelipereal007&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luizfelipereal007&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Luizfelipereal007/Luizfelipereal007/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
