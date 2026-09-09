@@ -10,12 +10,12 @@ Currently at **Grupo Imagetech**, where I design and maintain integrations, auto
 
 | Project | What it does |
 | --- | --- |
+| [**Agent-Monitor**](https://github.com/Luizfelipereal007/Agent-Monitor) | Monorepo (pnpm/TypeScript) to monitor and control OpenCode AI agents from your phone — CLI + WebSocket relay server + Expo/React Native mobile app, with token-based auth, QR pairing, multi-session support, and ngrok remote access |
 | [**API-CRM**](https://github.com/Luizfelipereal007/API-CRM) | REST API in Node.js/Express/SQLite for CRM — users, projects, invoices, automatic payment rules, FAQ with fuzzy matching, and webhooks |
+| [**Router-Dev**](https://github.com/Luizfelipereal007/Router-Dev) | Local developer dashboard (Next.js + React + TypeScript + SQLite) to manage projects and links, with GitHub/GitLab integration and fork synchronization |
+| [**The-Text-Voice**](https://github.com/Luizfelipereal007/The-Text-Voice) | RESTful Text-to-Speech API in Node.js/Express supporting Google Translate and Microsoft Edge neural voices, returning MP3 audio in-memory |
 | [**insomniac-API**](https://github.com/Luizfelipereal007/insomniac-API) | GitHub Actions automation that prevents API hibernation via scheduled health checks, with HTTP monitoring and execution logging |
 | [**windows-xp-theme-installer**](https://github.com/Luizfelipereal007/windows-xp-theme-installer) | Automatic Windows XP theme installer for Linux Mint Cinnamon |
-| [**Rolezao-Escolar**](https://github.com/Luizfelipereal007/Rolezao-Escolar) | Platform for booking and organizing school excursions (PHP) |
-| [**Site-em-grid**](https://github.com/Luizfelipereal007/Site-em-grid) | Grid-layout management system with categories, products, and users backed by a database (PHP) |
-| [**Commit-mensagem**](https://github.com/Luizfelipereal007/Commit-mensagem) | Shell bot that draws text on the GitHub contribution graph using strategic commits |
 
 ---
 
@@ -28,10 +28,13 @@ JavaScript · TypeScript · PHP · Python · Dart · SQL
 React · Next.js · Vite · TailwindCSS · ShadCN UI
 
 **Mobile**  
-Flutter · React Native
+Flutter · React Native · Expo
 
 **Backend & APIs**  
-Node.js · Express · NestJS · REST APIs · SQLite · MySQL · PostgreSQL · Docker · n8n
+Node.js · Express · NestJS · REST APIs · WebSocket · SQLite · MySQL · PostgreSQL · Docker · n8n
+
+**Architecture & Tooling**  
+Monorepos · pnpm workspaces · Adapter pattern · shared packages
 
 **Automation & Chatbots**  
 GitHub Actions · n8n · Blip (Take) · webhooks · cron scheduling
