@@ -1,51 +1,58 @@
-# 💫 About Me:
-👋 About Me<br>
-Hi! My name is Luiz Felipe and I’m a Software Developer working across automation, web, mobile, backend systems, chatbots, and data-driven solutions.<br><br>
+# Luiz Felipe Mariano Bonfim
 
-💼 I currently work at the Grupo Imagetech, building and maintaining systems involving APIs, integrations, automation workflows, chatbots, dashboards, and multi-platform applications.<br><br>
+**Full-Stack Developer** building APIs, automation workflows, chatbots, and multi-platform applications across web, mobile, and backend systems.
 
-📚 Education:<br>
-🎓 Systems Analysis and Development<br>
-🌍 Intermediate English proficiency<br><br>
-
-💻 Technologies I Work With:<br>
-🔹 Languages: JavaScript, TypeScript, SQL, Dart, PHP<br>
-🔹 Frontend: React, Next.js, Vite, TailwindCSS, ShadCN UI<br>
-🔹 Mobile: Flutter, React Native<br>
-🔹 Backend & APIs: Node.js, REST APIs, MySQL, PostgreSQL, Docker, n8n<br>
-🔹 Chatbots & Automation: Blip (Take), chatbot flows, integrations, n8n automations<br>
-🔹 Data & Mapping: Leaflet, GeoJSON, dashboards<br>
-🔹 Tools & DevOps: Git, GitHub Actions, CI/CD, Docker Compose<br><br>
-
-🚀 My goal is to build efficient, scalable, and reliable systems that connect automation, chatbots, data, and user experience across multiple platforms.<br><br>
-
-📩 If you’d like to chat about technology or potential collaborations, feel free to reach out!
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/VFmDdNHt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lzfmb?utm_source=qr&igsh=bmlybXlnZ3Zlc2kw) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24374350) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lmarianobonfim@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-
-<p>Hello World!!</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/Luizfelipereal007/Luizfelipereal007/output/snake.svg" alt="Snake animation" />
-
-###
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Luizfelipereal007&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Luizfelipereal007&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfelipereal007&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Luizfelipereal007&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Luizfelipereal007&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+Currently at **Grupo Imagetech**, where I design and maintain integrations, automation pipelines, chatbot flows, and data-driven dashboards. My focus is shipping reliable, scalable systems that connect automation, data, and user experience across platforms.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Luizfelipereal007&icon=2&color=4)](https://visitcount.itsvg.in)
+
+## Featured Projects
+
+| Project | What it does |
+| --- | --- |
+| [**API-CRM**](https://github.com/Luizfelipereal007/API-CRM) | REST API in Node.js/Express/SQLite for CRM — users, projects, invoices, automatic payment rules, FAQ with fuzzy matching, and webhooks |
+| [**insomniac-API**](https://github.com/Luizfelipereal007/insomniac-API) | GitHub Actions automation that prevents API hibernation via scheduled health checks, with HTTP monitoring and execution logging |
+| [**windows-xp-theme-installer**](https://github.com/Luizfelipereal007/windows-xp-theme-installer) | Automatic Windows XP theme installer for Linux Mint Cinnamon |
+| [**Rolezao-Escolar**](https://github.com/Luizfelipereal007/Rolezao-Escolar) | Platform for booking and organizing school excursions (PHP) |
+| [**Site-em-grid**](https://github.com/Luizfelipereal007/Site-em-grid) | Grid-layout management system with categories, products, and users backed by a database (PHP) |
+| [**Commit-mensagem**](https://github.com/Luizfelipereal007/Commit-mensagem) | Shell bot that draws text on the GitHub contribution graph using strategic commits |
+
+---
+
+## Tech Stack
+
+**Languages**  
+JavaScript · TypeScript · PHP · Python · Dart · SQL
+
+**Frontend**  
+React · Next.js · Vite · TailwindCSS · ShadCN UI
+
+**Mobile**  
+Flutter · React Native
+
+**Backend & APIs**  
+Node.js · Express · NestJS · REST APIs · SQLite · MySQL · PostgreSQL · Docker · n8n
+
+**Automation & Chatbots**  
+GitHub Actions · n8n · Blip (Take) · webhooks · cron scheduling
+
+**Data & Mapping**  
+Leaflet · GeoJSON · dashboards
+
+**Tools & DevOps**  
+Git · GitHub Actions · GitLab CI · Docker Compose · Postman · Jira
+
+---
+
+## Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lmarianobonfim@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/lzfmb) [![Discord](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white)](https://discord.com/invite/VFmDdNHt) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24374350)
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Luizfelipereal007&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfelipereal007&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Luizfelipereal007&hide_border=true)
