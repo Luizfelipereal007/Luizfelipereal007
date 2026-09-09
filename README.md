@@ -51,16 +51,16 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luizfelipereal007&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfelipereal007&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Luizfelipereal007&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Luizfelipereal007&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Luizfelipereal007&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luizfelipereal007&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luizfelipereal007&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luizfelipereal007&theme=tokyonight" />
 </p>
 
 ---
